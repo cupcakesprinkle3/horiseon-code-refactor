@@ -13,3 +13,6 @@ This project exists to complete Challenge 1 in the UC Berkeley Extension Code Bo
 
 **Credits**
 This project was originally created by staff and/or affiliates of the UC Berkeley Extension Code Bootcamp.
+
+**Link to Deployed Application**
+The link to the deployed application is: https://cupcakesprinkle3.github.io/horiseon-code-refactor/
