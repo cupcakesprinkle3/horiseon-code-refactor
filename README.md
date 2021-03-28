@@ -11,4 +11,5 @@ This project exists to complete Challenge 1 in the UC Berkeley Extension Code Bo
 
 ![Horiseon](https://user-images.githubusercontent.com/79061264/112739730-830d8880-8f2b-11eb-8b98-16bdf8ea616a.png)
 
-
+**Credits**
+This project was originally created by staff and/or affiliates of the UC Berkeley Extension Code Bootcamp.
