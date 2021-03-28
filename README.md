@@ -6,8 +6,7 @@ This is a project that takes the existing codebase for the Horiseon agency and r
 **Motivation**\
 This project exists to complete Challenge 1 in the UC Berkeley Extension Code Bootcamp.
 
-**Screenshot**\
-
+**Screenshot**
 
 ![Horiseon](https://user-images.githubusercontent.com/79061264/112739730-830d8880-8f2b-11eb-8b98-16bdf8ea616a.png)
 
